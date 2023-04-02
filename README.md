@@ -31,4 +31,4 @@ subnet 10.0.0.0 netmask 255.255.255.0 {
 ...
 ```
 In my case it run on a container and make ssh command to host to gather informations.
-Make sure that it denied all shh connetion attempts.
+Make sure that to denied all shh connetion attempts from outside.
