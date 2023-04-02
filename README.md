@@ -1,6 +1,6 @@
 # Proxmox_DHCP
 
-##How it work
+## How it work
 This script will allow you to automatically give proxmox VMs IPs depending on their number.
 It gather machine number and mac address from the host and change /etc/dhcp/dhcpd.conf as follow :
 
